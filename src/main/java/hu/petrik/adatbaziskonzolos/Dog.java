@@ -53,11 +53,11 @@ public class Dog {
 
     @Override
     public String toString() {
-        return "Dog {" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", age=" + age +
-                ", breed='" + breed + '\'' +
-                '}';
+        return "Dog { " +
+                "id= " + id +
+                ", name= '" + name + '\'' +
+                ", age= " + age +
+                ", breed= '" + breed + '\'' +
+                " }";
     }
 }
